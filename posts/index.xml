@@ -6,10 +6,24 @@
     <description>Recent content in Posts on HK818&#39;s</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Oct 2019 10:39:10 +0800</lastBuildDate>
     
 	<atom:link href="https://HK818.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Hugo主题配置与部署</title>
+      <link>https://HK818.github.io/2019/hugo_deploy_and_theme_config/</link>
+      <pubDate>Tue, 01 Oct 2019 10:39:10 +0800</pubDate>
+      
+      <guid>https://HK818.github.io/2019/hugo_deploy_and_theme_config/</guid>
+      <description>Mind graph TD A(Hugo教程) --|Hugo安装| B(windows环境变量) B --|关掉文件管理器生效| C(git submodule add安装主题) A --|Github page| B1(源\渲分储) C --|主题配置|F(config.toml) C --|主题配置|G(修改css\html) B1--|博客根目录| E1(blog私有仓库) B1--|博客public目录| E2(username.github.io公开仓库)   Possible Error 所遇到的问题按照流程图从左到右，从上到依次
+Hugo安装  Windows添加环境变量，大概需要关掉文件管理器和命令窗口才生效。 修改config.toml前，多看看所用主题作者的readme文件，注意备份。 修改css没生效可能是修改的css不对，Hugo的刷新在文件保存后就奏效了。  Github Deploy 采用源码和Public文件分开存储，在部署时遇到的问题有几个，细说一下。
+Git ssh 连接  Git多账户使用，先取消全局用户名和邮箱，后.ssh/config设置别名要在任何地方使用。 ssh抛出没有代理的错误：
+eval `ssh-agent -s`  ssh抛出没有许可证的错误：
+ssh-add -l //查看，如果没有 ssh-add -D //清理 ssh-add ~/.ssh/id_rsa_xxx //添加 ssh-add -l //查看，有@user.email  ssh -T git@HK818.github.com抛出time out的错误：@别名错误。
+  Github page 生成 上面是根目录与blog私有仓库的连接，排除以上错误后，大体上不会有问题了。下面说一下public目录与HK818.</description>
+    </item>
     
     <item>
       <title>Getting Started with Hugo</title>

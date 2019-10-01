@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>development on HK818&#39;s</title>
-    <link>https://HK818.github.io/tags/development/</link>
-    <description>Recent content in development on HK818&#39;s</description>
+    <title>Hugo on HK818&#39;s</title>
+    <link>https://HK818.github.io/categories/hugo/</link>
+    <description>Recent content in Hugo on HK818&#39;s</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Tue, 01 Oct 2019 10:39:10 +0800</lastBuildDate>
     
-	<atom:link href="https://HK818.github.io/tags/development/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://HK818.github.io/categories/hugo/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -23,20 +23,6 @@ Git ssh 连接  Git多账户使用，先取消全局用户名和邮箱，后.ssh
 eval `ssh-agent -s`  ssh抛出没有许可证的错误：
 ssh-add -l //查看，如果没有 ssh-add -D //清理 ssh-add ~/.ssh/id_rsa_xxx //添加 ssh-add -l //查看，有@user.email  ssh -T git@HK818.github.com抛出time out的错误：@别名错误。
   Github page 生成 上面是根目录与blog私有仓库的连接，排除以上错误后，大体上不会有问题了。下面说一下public目录与HK818.</description>
-    </item>
-    
-    <item>
-      <title>Getting Started with Hugo</title>
-      <link>https://HK818.github.io/2014/hugoisforlovers/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://HK818.github.io/2014/hugoisforlovers/</guid>
-      <description>Step 1. Install Hugo Go to Hugo releases and download the appropriate version for your OS and architecture.
-Save it somewhere specific as we will be using it in the next step.
-More complete instructions are available at Install Hugo
-Step 2. Build the Docs Hugo has its own example site which happens to also be the documentation site you are reading right now.
-Follow the following steps:
- Clone the Hugo repository Go into the repo Run hugo in server mode and build the docs Open your browser to http://localhost:1313  Corresponding pseudo commands:</description>
     </item>
     
   </channel>

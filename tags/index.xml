@@ -6,7 +6,7 @@
     <description>Recent content in Tags on HK818&#39;s</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Oct 2019 10:39:10 +0800</lastBuildDate>
     
 	<atom:link href="https://HK818.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,9 +14,18 @@
     <item>
       <title>development</title>
       <link>https://HK818.github.io/tags/development/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Oct 2019 10:39:10 +0800</pubDate>
       
       <guid>https://HK818.github.io/tags/development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hugo_log</title>
+      <link>https://HK818.github.io/tags/hugo_log/</link>
+      <pubDate>Tue, 01 Oct 2019 10:39:10 +0800</pubDate>
+      
+      <guid>https://HK818.github.io/tags/hugo_log/</guid>
       <description></description>
     </item>
     

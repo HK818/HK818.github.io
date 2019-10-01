@@ -4,21 +4,7 @@
     <url>
       <loc>https://HK818.github.io/categories/</loc>
       
-      <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-      
-      
-      <changefreq>monthly</changefreq>
-      
-      
-      <priority>0.5</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://HK818.github.io/categories/development/</loc>
-      
-      <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+      <lastmod>2019-10-01T10:39:10+08:00</lastmod>
       
       
       <changefreq>monthly</changefreq>
@@ -31,6 +17,104 @@
   
     <url>
       <loc>https://HK818.github.io/tags/development/</loc>
+      
+      <lastmod>2019-10-01T10:39:10+08:00</lastmod>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0.5</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://HK818.github.io/</loc>
+      
+      <lastmod>2019-10-01T10:39:10+08:00</lastmod>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0.5</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://HK818.github.io/categories/hugo/</loc>
+      
+      <lastmod>2019-10-01T10:39:10+08:00</lastmod>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0.5</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://HK818.github.io/tags/hugo_log/</loc>
+      
+      <lastmod>2019-10-01T10:39:10+08:00</lastmod>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0.5</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://HK818.github.io/2019/hugo_deploy_and_theme_config/</loc>
+      
+      <lastmod>2019-10-01T10:39:10+08:00</lastmod>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0.5</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://HK818.github.io/posts/</loc>
+      
+      <lastmod>2019-10-01T10:39:10+08:00</lastmod>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0.5</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://HK818.github.io/tags/</loc>
+      
+      <lastmod>2019-10-01T10:39:10+08:00</lastmod>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0.5</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://HK818.github.io/categories/development/</loc>
       
       <lastmod>2014-04-02T00:00:00+00:00</lastmod>
       
@@ -72,20 +156,6 @@
     </url>
   
     <url>
-      <loc>https://HK818.github.io/categories/golang/</loc>
-      
-      <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-      
-      
-      <changefreq>monthly</changefreq>
-      
-      
-      <priority>0.5</priority>
-      
-      
-    </url>
-  
-    <url>
       <loc>https://HK818.github.io/tags/golang/</loc>
       
       <lastmod>2014-04-02T00:00:00+00:00</lastmod>
@@ -100,7 +170,7 @@
     </url>
   
     <url>
-      <loc>https://HK818.github.io/</loc>
+      <loc>https://HK818.github.io/categories/golang/</loc>
       
       <lastmod>2014-04-02T00:00:00+00:00</lastmod>
       
@@ -115,34 +185,6 @@
   
     <url>
       <loc>https://HK818.github.io/tags/hugo/</loc>
-      
-      <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-      
-      
-      <changefreq>monthly</changefreq>
-      
-      
-      <priority>0.5</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://HK818.github.io/posts/</loc>
-      
-      <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-      
-      
-      <changefreq>monthly</changefreq>
-      
-      
-      <priority>0.5</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://HK818.github.io/tags/</loc>
       
       <lastmod>2014-04-02T00:00:00+00:00</lastmod>
       
