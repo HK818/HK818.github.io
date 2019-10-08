@@ -6,8 +6,8 @@ HK818是基于Hugo—KeepIt主题部署在netlify上的个人站点，在主题�
 ![](https://img.shields.io/badge/powerby-hugo-ff69b4)
 <img width="52px" height="50px" style="" src="https://d33wubrfki0l68.cloudfront.net/30790d6888bd8af863fb2b5c33a7f337cdbda243/4e867/images/hugo-logo-wide.svg" alt="Hugo Logo">
 ### 语言
-- [🇨🇳简体中文](https://github.com/HK818/HK818.github.io/edit/master/README.md)
-- [🇺🇸英文](https://github.com/HK818/HK818.github.io/edit/master/README_us.md)
+- [🇨🇳简体中文](https://github.com/HK818/HK818.github.io/blob/master/readm.md)
+- [🇺🇸英文](https://github.com/HK818/HK818.github.io/blob/master/readme_us.md)
 ### 预览
 ![hk818.ml](https://cdn.jsdelivr.net/gh/HK818/Free@img/hk818.ml.jpg)
 
