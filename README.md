@@ -45,5 +45,3 @@ HK818是基于Hugo—KeepIt主题部署在netlify上的个人站点，在主题�
 - [netlify 部署](https://www.netlify.com/)
 - [algalia 搜索](https://www.algolia.com/)
 
-### 语言
-
